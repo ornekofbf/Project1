@@ -1,6 +1,7 @@
 """
 tcp_client.py
 tcp客户端演示: 重点代码
+这是第一种方案
 """
 
 from socket import *
